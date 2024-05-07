@@ -1,0 +1,253 @@
+.selection1{
+    background-color: beige;
+        display: flex;
+        justify-content: space-between;
+        height: 30px;
+        width: 1266px;
+        align-items: center;
+}
+.div1{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+.div1 .red{
+    background-color: red;
+    border-radius: 70px;
+height: 15px;
+width: 20px;
+margin-left: 5px;
+}
+.div1 .yellow{
+    background-color: yellow;
+    border-radius: 70px;
+height: 15px;
+width: 20px;
+}
+.div1 .green{
+    background-color: green;
+    border-radius: 70px;
+height: 15px;
+width: 20px;
+}
+.input1{
+    border-radius: 25px;
+    padding: 2px;
+    margin-right: 50px;
+    padding-left: 50px;
+}
+.selection2{
+    background-color: rgb(241, 239, 239);
+    height: 160px;
+    width: 1266px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    background-image: url('images.jfif');
+    height: 148px;
+    width: 233px;
+    margin-left: 10px;
+}
+.div4 ul li{
+    display: inline;
+    list-style: none;
+    gap: 80px;
+}
+.div4 ul li i a{
+    color: white;
+    text-decoration: none;
+    background-color: black;
+    margin: 6px;
+    padding: 10px;
+    width: 80px;
+    border-radius: 25px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+.div4 ul li a:hover{
+    background-color: bisque;
+    color: orangered;
+}
+
+.selection3{
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+    height: 500px;
+    width: 1266px;
+    align-items: center;
+}
+.div5{
+    color: blue;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 150px;
+    font-size: 30px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-style: italic;
+}
+.div5 h1:hover{
+    background-color: bisque;
+    color: rgb(136, 136, 179);
+    border-radius: 20px;
+}
+.img1{
+    border-radius: 29px;
+    margin-right: 10px;
+}
+.selection4{
+    background-color: rgb(241, 239, 239);
+    height: 160px;
+    width: 1266px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.div6 ul li{
+    display: inline;
+    list-style: none;
+    gap: 80px;
+}
+.div6 ul li i a{
+    color: white;
+    text-decoration: none;
+    background-color: black;
+    margin: 6px;
+    padding: 10px;
+    width: 80px;
+    border-radius: 25px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+.div6 ul li a:hover{
+    background-color: bisque;
+    color: orangered;
+}
+.div7{
+    color: orangered;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    margin-left: 6px;
+}
+.div7 h1:hover{
+    background-color: bisque;
+    color: rgb(136, 136, 179);
+    border-radius: 20px;
+}
+.selection5{
+    background-color: beige;
+    height: 500px;
+    width: 1266px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.img2{
+    border-radius: 20px;
+    margin-left: 10px;
+
+}
+.about{
+    margin-right: 60px;
+}
+.about #issa{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+}
+#cyusa{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-style: italic;
+font-weight: bold;
+font-size: 30px;
+}
+.selection6{
+    background-color: azure;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 250px;
+    width: 1266px;
+}
+#stacks{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-style: italic;
+    font-weight: bold;
+}
+#stacks:hover{
+    background-color: black;
+    color: whitesmoke;
+    padding: 10px;
+    border-radius: 10px;
+}
+.selection6 .html{
+    background-color: bisque;
+    color: black;
+    height: 45px;
+    width: 100px;
+    text-align: center;
+    border-radius: 29px;
+}
+.selection6 .css{
+    background-color: bisque;
+    color: black;
+    height: 45px;
+    width: 100px;
+    text-align: center;
+    border-radius: 29px;
+}
+.selection6 .figma{
+    background-color: bisque;
+    color: black;
+    height: 45px;
+    width: 100px;
+    text-align: center;
+    border-radius: 29px;
+}
+.selection6 .prototype{
+    background-color: bisque;
+    color: black;
+    height: 45px;
+    width: 100px;
+    text-align: center;
+    border-radius: 29px;
+}
+.selection6 .javascript{
+    background-color: bisque;
+    color: black;
+    height: 45px;
+    width: 100px;
+    text-align: center;
+    border-radius: 29px;
+}
+.issa{
+    height: 50px;
+    margin-top: 5px;
+}
+.cyusa{
+    height: 50px;
+    margin-top: 5px;
+}
+.junior{
+    height: 50px;
+    margin-top: 5px;
+}
+.neni{
+    height: 50px;
+    margin-top: 5px;
+}
+.kid{
+    height: 50px;
+    margin-top: 5px;
+}
+
+
